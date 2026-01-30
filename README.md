@@ -1,6 +1,6 @@
 # Refundid Warehouse Returns App
 
-A mobile application prototype developed in **Expo (React Native)** for Refundid to approve/decline returns in warehouses. It solves their problem of typing in barcodes manually on a computer which is error-prone.
+A mobile application developed with **Expo (React Native)** that simulates a warehouse returns processing workflow for Refundid. It addresses the problem of error-prone manual barcode entry by enabling mobile barcode scanning for faster and more reliable processing.
 
 ## Core Features
 
@@ -52,3 +52,5 @@ This project required special attention to ensure the app speeds up return prcoe
 ### Figma
 
 The app interface was designed with Figma, which I used for the first time on this project: https://www.figma.com/design/5viI60axjdWWPszPi9HTL8/The-Careers-Department-x-Refundid-Wireframe-Template--Community-?node-id=0-1&t=LLsw9Snl2457PREs-1
+
+![Screenshot of Figma wireframes designed for this project](Figma-screenshot.png)
