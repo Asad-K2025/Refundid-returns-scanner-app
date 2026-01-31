@@ -2,6 +2,8 @@
 
 A mobile application developed with **Expo (React Native)** that simulates a warehouse returns processing workflow for Refundid. It addresses the problem of error-prone manual barcode entry by enabling mobile barcode scanning for faster and more reliable processing.
 
+![Screenshot of the app's interface](App-screenshots.png)
+
 ## Core Features
 
 ### Operator Login
